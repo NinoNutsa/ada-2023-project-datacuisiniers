@@ -4,6 +4,6 @@ description: Website for project ADA
 show_downloads: True
 navigation:
   - title: Home
-    url: README
+    url: https://github.com/malools/ada-2023-project-datacuisiniers/blob/master/README.md
   - title: Example
     url: example
