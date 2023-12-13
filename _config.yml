@@ -4,6 +4,6 @@ description: Website for project ADA
 show_downloads: True
 navigation:
   - title: Home
-    url: /
+    url: /ada-2023-project-datacuisiniers
   - title: Example
     url: example
